@@ -83,7 +83,8 @@ The objective of this analysis is to:
 
 - `Shopify_Sales.xlsx` – https://github.com/priyash-ux/Shopify_Analysis/blob/main/Shopify_Sales.xlsx
 - `Dashboard` – [Project overview and design presentation](https://github.com/priyash-ux/Shopify_Analysis/blob/main/Shoppify.pbix)
-- 'Dashboard Snapshots'-
+- 'Dashboard Snapshots'-https://github.com/priyash-ux/Shopify_Analysis/blob/main/Shopify_analysis_dashboard.png
+                         https://github.com/priyash-ux/Shopify_Analysis/blob/main/Details.png
 
 ---
 
